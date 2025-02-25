@@ -15,7 +15,7 @@ I offer **custom Web3 development** services, including:
 ✅ **Front-End Development** – Responsive UI/UX for Web3 applications  
 ✅ **DApp Integration** – Connecting smart contracts with smooth user interfaces  
 
-📌 **[Insert an image![sparrow woeking potfolio](https://github.com/user-attachments/assets/9e7f395d-a0f0-4ed4-bce1-b31d9d13a623)**  
+📌 **![sparrow woeking potfolio](https://github.com/user-attachments/assets/9e7f395d-a0f0-4ed4-bce1-b31d9d13a623)**  
 
 ---  
 
@@ -23,13 +23,11 @@ I offer **custom Web3 development** services, including:
 
 ### **1️⃣ Smart Contract Development**  
 I build **secure, gas-efficient** smart contracts tailored to blockchain projects.  
-
-📌 **Code Preview:** *[Insert a screenshot of a deployed smart contract or Solidity code]*  
+ 
 
 ### **2️⃣ Web3 Front-End Design**  
 I design and develop **interactive and modern** front-end experiences for DApps.  
 
-📌 **Interface Preview:** *[Insert an image showcasing your front-end UI for a Web3 project]*  
 
 ### **3️⃣ DApp Integration**  
 I ensure **smart contracts and front-end designs** work together seamlessly.  
@@ -51,9 +49,6 @@ I ensure **smart contracts and front-end designs** work together seamlessly.
 ## **🔹 Get in Touch**  
 
 📧 **Email:** stevenrebasing@gmail.com  
-🌍 **Website:** *[Insert link to your portfolio]*  
-📱 **Socials:** *[Insert links to LinkedIn, Twitter, or other profiles]*  
 
-📌 **Final Showcase:** *[Insert an image summarizing your best projects]*  
 
 **We could build the future together!** 🚀
